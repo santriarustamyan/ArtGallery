@@ -9,20 +9,20 @@ This project fetches artwork data from the Art Institute of Chicago's API, sorts
   You can check your Node.js version by running:
   node --version
 
-# Installation
+## Installation
 
-1. Clone the repository:
-# git clone https://github.com/santriarustamyan/ArtGallery.git
+## 1. Clone the repository:
+ git clone https://github.com/santriarustamyan/ArtGallery.git
 
-2. Navigate to the project folder:
-# cd ArtGallery
+## 2. Navigate to the project folder:
+ cd ArtGallery
 
-3. Install the required dependencies:
-# npm install node-fetch xlsx
+## 3. Install the required dependencies:
+ npm install node-fetch xlsx
 
 
-To run the script, execute:
-# node index.js
+## To run the script, execute:
+ node index.js
 
 
 The generated Excel file, Artworks.xlsx, will be saved in the project directory.

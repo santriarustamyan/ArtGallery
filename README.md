@@ -24,6 +24,8 @@ This project fetches artwork data from the Art Institute of Chicago's API, sorts
 ## To run the script, execute:
  node index.js
 
+ 
+
 
 The generated Excel file, Artworks.xlsx, will be saved in the project directory.
 
